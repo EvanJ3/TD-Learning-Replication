@@ -1,6 +1,4 @@
-# TD-Learning-Replication
-
-<h1><center>CS 7642 Spring 2021 Project 1: Replicating Sutton 1988</center></h1>
+<h1><center>Replicating Sutton 1988 TD-Learning</center></h1>
 <h2><center>Evan Jones</center></h2>
 <h3><center>February 16, 2021</center></h3>
 
